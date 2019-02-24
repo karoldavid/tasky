@@ -7,16 +7,16 @@ Simple Task Editor with Vuejs, Vuex, and Vuetify.
 ## Features
 
 -   Nested List (users with user tasks)
--   Task Form
+-   Task Form with Rich Text Editor
 -   Input Validation
--   Snackbar Notifications
+-   Snackbar Notification
 
 ## Setup
 
 -   Clone or download the repository
 -   Run `npm install` to install dependencies
 -   Run `npm run serve`
--   In your browser's address bar navigate to `localhost:3000`
+-   In your browser's address bar navigate to `localhost:8080`
 
 ## Built With
 
