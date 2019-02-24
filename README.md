@@ -1,8 +1,8 @@
 # Tasky
 
-Simple Task Editor with Vuejs, Vuex, and Vuetify
+Simple Task Editor with Vuejs, Vuex, and Vuetify.
 
-Live version: https://karoldavid.github.io/tasky/
+![User List with Task Editor](./src/assets/tasky.png)
 
 ## Features
 
